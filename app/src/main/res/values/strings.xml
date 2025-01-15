@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">EBook</string>
+    <string name="please_login">Please Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_account_signup">Don\'t have Account? SignUp</string>
+    <string name="book_app">Book App</string>
+    <string name="todo">TODO</string>
+    <string name="welcome_to_book_app">Welcome to EBook App</string>
+    <string name="continue_without_login">Continue without login</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="dashboard_user">Dashboard User</string>
+</resources>
